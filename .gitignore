@@ -1,0 +1,15 @@
+# IDE関連
+.idea/
+*.iml
+.vscode/
+
+# バックエンド (Java/Maven)
+server/target/
+server/*.class
+
+# フロントエンド (React/Node)
+client/node_modules/
+client/dist/
+
+# 環境変数
+.env
